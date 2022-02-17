@@ -1,7 +1,19 @@
-### Hi there 👋
+# Hi there, This is the Ugi's github 👋
 
-### This is the Ugi's github
+### About me 😆
 
+- 💻 Student Developer Interested in Backend & IOS.
+- 💻 Department of Computer Science in Sejong Univ.
+
+### Studying Now 📚
+
+- 🔥 I’m currently learning Java Spring, IOS and Argorithm.
+
+### Activities
+
+- 👨🏻‍💻 Sejong Univ. En# 21th (2021.04 ~ now)
+- 👨🏻‍💻 StartUp 'PetRun'(2022.01 ~ 2022.02)
+- 👨🏻‍💻 Student Council (2018.01 ~ 2018.12)
 
 
 <!--
