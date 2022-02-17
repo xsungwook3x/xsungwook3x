@@ -11,7 +11,9 @@
 
 ### Stack 🛠
 
-### Activities 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
+### Activities 🤼‍♀️
 
 - 👨🏻‍💻 Sejong Univ. En# 21th (2021.04 ~ now)
 - 👨🏻‍💻 StartUp 'PetRun'(2022.01 ~ 2022.02)
