@@ -9,7 +9,9 @@
 
 - 🔥 I’m currently learning Java Spring, IOS and Argorithm.
 
-### Activities
+### Stack 🛠
+
+### Activities 
 
 - 👨🏻‍💻 Sejong Univ. En# 21th (2021.04 ~ now)
 - 👨🏻‍💻 StartUp 'PetRun'(2022.01 ~ 2022.02)
