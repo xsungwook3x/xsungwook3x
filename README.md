@@ -7,7 +7,7 @@
 
 ### Studying Now 📚
 
-- 🔥 I’m currently learning Java Spring, IOS and Argorithm.
+- 🔥 I’m currently learning Java Spring, Flutter and Argorithm.
 
 ### Stack 🛠
 
