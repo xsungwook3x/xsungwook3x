@@ -2,7 +2,7 @@
 
 ### About me 😆
 
-- 💻 Student Developer Interested in Backend & IOS.
+- 💻 Student Developer Interested in Backend
 - 💻 Department of Computer Science in Sejong Univ.
 
 ### Studying Now 📚
