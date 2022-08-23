@@ -2,12 +2,12 @@
 
 ### About me 😆
 
-- 💻 Student Developer Interested in Backend
+- 💻 Student Developer Interested in Web
 - 💻 Department of Computer Science in Sejong Univ.
 
 ### Studying Now 📚
 
-- 🔥 I’m currently learning Java Spring and Argorithm.
+- 🔥 I’m currently learning React.js, Java Spring and Argorithm.
 
 ### Stack 🛠
 
@@ -21,7 +21,7 @@
 
 ### Activities 🤼‍♀️
 
-- 👨🏻‍💻 Sejong UMC Backend Spring Course (2022.03 ~ now)
+- 👨🏻‍💻 Sejong UMC Backend Spring Course (2022.03 ~ 2022.06)
 - 👨🏻‍💻 Sejong Univ. En# 21th (2021.04 ~ now)
 - 👨🏻‍💻 StartUp 'PetRun'(2022.01 ~ 2022.02)
 - 👨🏻‍💻 Student Council (2018.01 ~ 2018.12)
