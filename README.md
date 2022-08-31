@@ -1,4 +1,4 @@
-# Hi there, This is the Ugi's github 👋
+# Hi !!, This is the Ugi's github 👋
 
 ### About me 😆
 
