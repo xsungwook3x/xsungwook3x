@@ -26,6 +26,8 @@
 - 👨🏻‍💻 StartUp 'PetRun'(2022.01 ~ 2022.02)
 - 👨🏻‍💻 Student Council (2018.01 ~ 2018.12)
 
+## Portfolio 💻
+https://seonguk-portfolio.netlify.app/
 
 <!--
 **xsungwook3x/xsungwook3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
