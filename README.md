@@ -11,7 +11,7 @@
 
 ### Stack 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,react,androidstudio,nodejs,express,spring,mysql,aws,firebase&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,react,androidstudio,nodejs,express,spring,mysql,aws,firebase)](https://skillicons.dev)
 
 ### Activities 🤼‍♀️
 
