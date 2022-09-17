@@ -15,8 +15,8 @@
 
 ### Activities 🤼‍♀️
 
-- 👨🏻‍💻 Sejong UMC Backend Spring Course (2022.03 ~ 2022.06)
 - 👨🏻‍💻 Sejong Univ. En# 21th (2021.04 ~ now)
+- 👨🏻‍💻 Sejong UMC Backend Spring Course (2022.03 ~ 2022.06)
 - 👨🏻‍💻 StartUp 'PetRun'(2022.01 ~ 2022.02)
 - 👨🏻‍💻 Student Council (2018.01 ~ 2018.12)
 
