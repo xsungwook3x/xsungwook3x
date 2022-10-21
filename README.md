@@ -2,7 +2,7 @@
 
 ### About me 😆
 
-- 💻 Student Developer Interested in Web
+- 💻 Student Developer Interested in Web Development
 - 💻 Department of Computer Science in Sejong Univ.
 
 ### Studying Now 📚
