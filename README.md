@@ -1,19 +1,19 @@
 # Hi!!, This is the Ugi's github 👋
 
-### About me 😆
+### 😆 About me 😆
 
 - 💻 Student Developer Interested in Web Development
 - 💻 Department of Computer Science in Sejong Univ.
 
-### Studying Now 📚
+### 📚 Studying Now 📚
 
 - 🔥 I’m currently learning React.js, Java Spring and Argorithm.
 
-### Stack 🛠
+### 🛠 Stack 🛠
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,react,androidstudio,nodejs,express,spring,mysql,aws,firebase)](https://skillicons.dev)
 
-### Activities 🤼‍♀️
+### 🤼‍♀️ Activities 🤼‍♀️
 
 - 👨🏻‍💻 Sejong Univ. En# 21th (2021.04 ~ now)
 - 🤔 Sejong UMC Backend Spring Course (2022.03 ~ 2022.06)
