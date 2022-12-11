@@ -7,7 +7,7 @@
 
 ### 📚 Studying Now 📚
 
-- 🔥 I’m currently learning React.js, Java Spring and Argorithm.
+- 🔥 I’m currently learning Java Spring and Argorithm.
 
 ### 🛠 Stack 🛠
 
