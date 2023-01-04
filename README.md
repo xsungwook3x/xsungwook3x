@@ -2,7 +2,8 @@
 
 ### 😆 About me 😆
 
-- 💻 Student Developer Interested in Web Development
+- 💻 Junior Developer Interested in Web Development
+- 💻 CJ olivenetworks BSE
 - 💻 Department of Computer Science in Sejong Univ.
 
 ### 📚 Studying Now 📚
@@ -14,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,react,androidstudio,nodejs,express,spring,mysql,aws,firebase)](https://skillicons.dev)
 
 ### 🤼‍♀️ Activities 🤼‍♀️
-
+- 🏢 CJ OliveNetworks Business System Engineer
 - 👨🏻‍💻 Sejong Univ. En# 21th (2021.03 ~ now)
 - 🤔 Sejong UMC Backend Spring Course (2022.03 ~ 2022.06)
 - 📫 StartUp 'PetRun'(2022.01 ~ 2022.02)
@@ -22,6 +23,9 @@
 
 ## Portfolio 🔭
 https://seonguk-portfolio.netlify.app/
+
+## Blog 🔭
+https://wrongcat.tistory.com/
 
 <!--
 **xsungwook3x/xsungwook3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
