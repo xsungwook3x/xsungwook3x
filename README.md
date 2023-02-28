@@ -16,8 +16,7 @@
 
 ### 🤼‍♀️ Activities 🤼‍♀️
 - 🏢 CJ OliveNetworks Business System Engineer
-- 👨🏻‍💻 Sejong Univ. En# 21th (2021.03 ~ now)
-- 🤔 Sejong UMC Backend Spring Course (2022.03 ~ 2022.06)
+- 👨🏻‍💻 Sejong Univ. En# 21th (2021.03 ~ 2023.02)
 - 📫 StartUp 'PetRun'(2022.01 ~ 2022.02)
 - 🌱 Student Council (2018.01 ~ 2018.12)
 
